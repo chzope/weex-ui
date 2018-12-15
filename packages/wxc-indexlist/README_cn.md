@@ -26,7 +26,7 @@
 <script>
   const modal = weex.requireModule('modal');
   import { WxcIndexlist } from 'weex-ui';
-  import {datelist} from 'data.js'
+  import {datalist} from 'data.js'
   export default {
     components: { WxcIndexlist },
     data: () => ({
